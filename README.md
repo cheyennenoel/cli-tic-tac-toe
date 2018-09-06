@@ -18,4 +18,7 @@ npm run start
 ## Contribute
 Make a PR!
 
+## Credits
+Thanks @ https://scotch.io/tutorials/build-an-interactive-command-line-application-with-nodejs!
+
 MIT © cheyennenoel
