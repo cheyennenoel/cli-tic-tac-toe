@@ -1,0 +1,20 @@
+{
+  "name": "cli-tic-tac-toe",
+  "version": "1.0.0",
+  "description": "Play tic-tac-toe in the command line!",
+  "main": "game.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cheyennenoel/cli-tic-tac-toe.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/cheyennenoel/cli-tic-tac-toe/issues"
+  },
+  "homepage": "https://github.com/cheyennenoel/cli-tic-tac-toe#readme"
+}
