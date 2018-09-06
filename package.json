@@ -4,7 +4,8 @@
   "description": "Play tic-tac-toe in the command line!",
   "main": "game.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "start": "node run game.js",
+    "test": "jest test.js"
   },
   "repository": {
     "type": "git",
@@ -16,5 +17,8 @@
   "bugs": {
     "url": "https://github.com/cheyennenoel/cli-tic-tac-toe/issues"
   },
-  "homepage": "https://github.com/cheyennenoel/cli-tic-tac-toe#readme"
+  "homepage": "https://github.com/cheyennenoel/cli-tic-tac-toe#readme",
+  "dependencies": {
+    "jest": "^23.5.0"
+  }
 }
